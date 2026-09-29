@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-runway-syntax-engine
-description: "Limit introductory clauses to short aerodynamic runways before launching main clauses." Use this when working on fitzpatrick runway syntax engine.
+description: "Limit introductory clauses to short aerodynamic runways before launching main clauses. Use this when working on fitzpatrick runway syntax engine."
 category: "Writing & Communication"
 triggers:
   - "runway syntax"
